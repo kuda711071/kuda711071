@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me
 
-<!--
-**kuda711071/kuda711071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, and welcome to my profile. I'm just your typical cybersecurity student trying to learn more than I can handle. I'll keep my About Me simple, as I don't really have anything impressive to share.
 
-Here are some ideas to get you started:
+I am not a developer, and I don't really plan on becoming one. I lack a lot of creativity, and unfortunately, when it comes to trying to learn languages, I fall short a little after the beginner concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+- Python
+- Bash
+
+Want to learn:
+- C+
+- HTML
+- More to come... (Maybe)
+
+This profile was created to showcase anything that I am proud to share with the public.
