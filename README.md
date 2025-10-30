@@ -4,11 +4,11 @@ Hey, and welcome to my profile. I'm just your typical cybersecurity student tryi
 
 I am not a developer, and I don't really plan on becoming one. I lack a lot of creativity, and unfortunately, when it comes to trying to learn languages, I fall short a little after the beginner concepts.
 
-Currently Learning:
+**Currently Learning:**
 - Python
 - Bash
 
-Want to learn:
+**Want to learn:**
 - C+
 - HTML
 - More to come... (Maybe)
