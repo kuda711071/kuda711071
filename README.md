@@ -11,6 +11,8 @@ I am not a developer, and I don't really plan on becoming one. I lack a lot of c
 **Want to learn:**
 - C+
 - HTML
+- Rust
+- Go
 - More to come... (Maybe)
 
 This profile was created to showcase anything that I am proud to share with the public.
